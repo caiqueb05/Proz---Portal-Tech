@@ -1,0 +1,1 @@
+Houve uma troca na cadeira posicionada na linha 4, coluna 4. Anteriormente havia um aluno de matemática, depois da troca, um aluno de português ocupou a posição. O prefessor descobriu a troca através do reconhecimento de padrões entre as imagens.
