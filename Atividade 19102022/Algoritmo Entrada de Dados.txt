@@ -1,0 +1,10 @@
+escreva("Digite seu nome por gentileza: ");
+leia(nome);
+escreva("Digite seu endereço por gentileza: ");
+leia(endereço);
+escreva("Digite sua cidade por gentileza: ");
+leia(cidade);
+escreva("Digite seu cpf por gentileza: ");
+leia(cpf);
+escreva("Digite seu rg por gentileza: ");
+leia(rg);
